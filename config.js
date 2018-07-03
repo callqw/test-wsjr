@@ -2,7 +2,7 @@
  * Created by xj on 2018/4/25.
  */
 const CONF = {
-    port: '8080',
+    port: '8080aaaaaaaaaa',
     rootPathname: '',
 
     // 微信小程序 App ID
